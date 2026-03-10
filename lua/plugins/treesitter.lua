@@ -18,6 +18,10 @@ return {
         "typescript",
         "json",
         "lua",
+        "haskell",
+        "c",
+        "cpp",
+        "go",
       }
     end
   }
